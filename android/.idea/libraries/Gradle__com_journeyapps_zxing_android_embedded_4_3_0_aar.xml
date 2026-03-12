@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.journeyapps:zxing-android-embedded:4.3.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/babaf86772660ff76298bb8a5f4ce0c3/transformed/zxing-android-embedded-4.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/babaf86772660ff76298bb8a5f4ce0c3/transformed/zxing-android-embedded-4.3.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/babaf86772660ff76298bb8a5f4ce0c3/transformed/zxing-android-embedded-4.3.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/4.3.0/f4f0504d30c6674a08b1327cc22a3f6ce4a1a166/zxing-android-embedded-4.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

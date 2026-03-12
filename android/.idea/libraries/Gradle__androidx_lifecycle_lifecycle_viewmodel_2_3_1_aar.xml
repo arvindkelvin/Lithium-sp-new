@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/3b12fb7a0788ead1f5889fbb12587465/transformed/lifecycle-viewmodel-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/3b12fb7a0788ead1f5889fbb12587465/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/3b12fb7a0788ead1f5889fbb12587465/transformed/lifecycle-viewmodel-2.3.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.3.1/55d6fa3541ca02167b0bd62a16fbdaec2a71622/lifecycle-viewmodel-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

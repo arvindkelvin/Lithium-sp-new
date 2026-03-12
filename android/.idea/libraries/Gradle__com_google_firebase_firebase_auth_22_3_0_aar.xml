@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth:22.3.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/ec1f935c7d31f1e92935d0de2ae0f7ae/transformed/firebase-auth-22.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/ec1f935c7d31f1e92935d0de2ae0f7ae/transformed/firebase-auth-22.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/22.3.0/a56b074f831733b455e1f2398e163e9e0e112091/firebase-auth-22.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

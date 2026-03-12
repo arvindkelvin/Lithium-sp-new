@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-storage:20.3.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/3902c75df7e65a71e5214750cb3315cd/transformed/firebase-storage-20.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/3902c75df7e65a71e5214750cb3315cd/transformed/firebase-storage-20.3.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/3902c75df7e65a71e5214750cb3315cd/transformed/firebase-storage-20.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/com.google.firebase/firebase-storage/20.3.0/70ffb7dde1bb05250adb0fe364f640d9a6a485c6/firebase-storage-20.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

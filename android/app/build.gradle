@@ -1,0 +1,80 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+    id "com.google.gms.google-services"
+}
+
+android {
+    namespace "com.thinksynq.lithiumsp"
+    compileSdkVersion 36
+    ndkVersion flutter.ndkVersion
+
+    defaultConfig {
+        applicationId "com.thinksynq.lithiumsp"
+        minSdkVersion flutter.minSdkVersion
+        targetSdkVersion 36
+        versionCode 53
+        versionName "2.0.24"
+        multiDexEnabled true
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+
+        // ✅ Core library desugaring
+        coreLibraryDesugaringEnabled true
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            shrinkResources false
+            zipAlignEnabled true
+        }
+
+        release {
+            minifyEnabled false
+            shrinkResources false
+            zipAlignEnabled true
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+flutter {
+    source "../.."
+}
+
+configurations.all {
+    exclude group: "com.google.firebase", module: "firebase-iid"
+}
+
+dependencies {
+    implementation "androidx.multidex:multidex:2.0.1"
+
+    // ✅ Java 8+ API support
+    coreLibraryDesugaring "com.android.tools:desugar_jdk_libs:2.0.4"
+
+    // ✅ reCAPTCHA
+    implementation "com.google.android.recaptcha:recaptcha:18.4.0"
+
+    // ✅ Firebase BoM
+    implementation platform("com.google.firebase:firebase-bom:32.8.0")
+    implementation "com.google.firebase:firebase-analytics"
+    implementation "com.google.firebase:firebase-messaging"
+}

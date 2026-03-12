@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.play:core-common:2.0.3@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/c281baf2300cb8665bc7ca57920d2c84/transformed/core-common-2.0.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/c281baf2300cb8665bc7ca57920d2c84/transformed/core-common-2.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/c281baf2300cb8665bc7ca57920d2c84/transformed/core-common-2.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

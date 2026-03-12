@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media2:media2-session:1.2.1@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/abca2d17a65664490cea873838502fd7/transformed/media2-session-1.2.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/abca2d17a65664490cea873838502fd7/transformed/media2-session-1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/abca2d17a65664490cea873838502fd7/transformed/media2-session-1.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/abca2d17a65664490cea873838502fd7/transformed/media2-session-1.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/androidx.media2/media2-session/1.2.1/1982c5a88bca9923ce7b47651a314e63ed0d220e/media2-session-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

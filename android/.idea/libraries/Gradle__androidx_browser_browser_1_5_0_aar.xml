@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.browser:browser:1.5.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/a67ee18ba9d785d36fd47235a69600a7/transformed/browser-1.5.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/a67ee18ba9d785d36fd47235a69600a7/transformed/browser-1.5.0/res" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/a67ee18ba9d785d36fd47235a69600a7/transformed/browser-1.5.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/a67ee18ba9d785d36fd47235a69600a7/transformed/browser-1.5.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/androidx.browser/browser/1.5.0/8c230ec3518c9099031c68398cf3b653c0694dcd/browser-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-sdk:21.6.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/06ae8a12f832319827f8868a03a6c696/transformed/play-services-measurement-sdk-21.6.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/06ae8a12f832319827f8868a03a6c696/transformed/play-services-measurement-sdk-21.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk/21.6.1/786bc5b6beb81dd7fb9c6c440d7dbb6f10421371/play-services-measurement-sdk-21.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

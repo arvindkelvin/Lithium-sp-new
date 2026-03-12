@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:rules:1.2.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/a1341f1b891efd6ed428b74fed132a03/transformed/rules-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/a1341f1b891efd6ed428b74fed132a03/transformed/rules-1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/androidx.test/rules/1.2.0/c431850aeff78b61588e9bdba4182cd110a3a453/rules-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/androidx.test/rules/1.2.0/547bf1a52225f631ccbbea54445460f9a9fa9caa/rules-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

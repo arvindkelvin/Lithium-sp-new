@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core:1.9.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/0d5838b146eb7c8257601360641170e7/transformed/core-1.9.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/0d5838b146eb7c8257601360641170e7/transformed/core-1.9.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/0d5838b146eb7c8257601360641170e7/transformed/core-1.9.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/0d5838b146eb7c8257601360641170e7/transformed/core-1.9.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/androidx.core/core/1.9.0/a272ed8ec68c43f8c049a8e77b4f662cc4290fa2/core-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

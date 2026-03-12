@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.1.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b9712cbb66bca97ba7fbba2d30e480cf/transformed/localbroadcastmanager-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b9712cbb66bca97ba7fbba2d30e480cf/transformed/localbroadcastmanager-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b9712cbb66bca97ba7fbba2d30e480cf/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/androidx.localbroadcastmanager/localbroadcastmanager/1.1.0/5e883f600e4fe297c01cdff938ca5bf582bf6020/localbroadcastmanager-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

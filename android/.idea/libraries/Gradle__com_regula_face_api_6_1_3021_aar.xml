@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.regula.face:api:6.1.3021@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b0bf166e9c52035df8dbd88be90a2341/transformed/api-6.1.3021/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b0bf166e9c52035df8dbd88be90a2341/transformed/api-6.1.3021/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b0bf166e9c52035df8dbd88be90a2341/transformed/api-6.1.3021/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

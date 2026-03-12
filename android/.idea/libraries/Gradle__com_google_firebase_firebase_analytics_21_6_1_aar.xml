@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-analytics:21.6.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/6a78b92f2960f82a9eee6de8f2ca1a83/transformed/firebase-analytics-21.6.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/6a78b92f2960f82a9eee6de8f2ca1a83/transformed/firebase-analytics-21.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/com.google.firebase/firebase-analytics/21.6.1/786bc5b6beb81dd7fb9c6c440d7dbb6f10421371/firebase-analytics-21.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

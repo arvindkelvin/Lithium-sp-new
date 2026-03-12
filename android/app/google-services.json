@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1037343372614",
+    "project_id": "sfdc-idp-2e342",
+    "storage_bucket": "sfdc-idp-2e342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037343372614:android:0be7dc7269d00377182147",
+        "android_client_info": {
+          "package_name": "com.thinksynq.lithiumsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037343372614-75rbgis4lhok9k00lm6cr5b9vsknnv1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcuV1ndEvwvK2j52cl-wKBdKGjOr6MOGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037343372614-75rbgis4lhok9k00lm6cr5b9vsknnv1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037343372614:android:35f57413335336b9182147",
+        "android_client_info": {
+          "package_name": "com.thinksynq.sfdcidp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037343372614-75rbgis4lhok9k00lm6cr5b9vsknnv1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcuV1ndEvwvK2j52cl-wKBdKGjOr6MOGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037343372614-75rbgis4lhok9k00lm6cr5b9vsknnv1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

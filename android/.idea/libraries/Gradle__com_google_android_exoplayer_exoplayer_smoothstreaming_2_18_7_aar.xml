@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.7@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/9eff389a9e12cb266706c9ff11b0669e/transformed/exoplayer-smoothstreaming-2.18.7/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/9eff389a9e12cb266706c9ff11b0669e/transformed/exoplayer-smoothstreaming-2.18.7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-smoothstreaming/2.18.7/9934414b825724f48f2c92e47ba65dbc3de3e306/exoplayer-smoothstreaming-2.18.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

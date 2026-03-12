@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media:media:1.1.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b86c789558e91e41d15e33ae03a191fd/transformed/media-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b86c789558e91e41d15e33ae03a191fd/transformed/media-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b86c789558e91e41d15e33ae03a191fd/transformed/media-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/b86c789558e91e41d15e33ae03a191fd/transformed/media-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/androidx.media/media/1.1.0/341e10416063572d12dbd751bda73d39284401af/media-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

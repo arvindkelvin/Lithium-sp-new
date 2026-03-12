@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-core:2.18.7@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/2e30d7a43f85227ab6a8c8776b0be7db/transformed/exoplayer-core-2.18.7/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/2e30d7a43f85227ab6a8c8776b0be7db/transformed/exoplayer-core-2.18.7/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/2e30d7a43f85227ab6a8c8776b0be7db/transformed/exoplayer-core-2.18.7/res" />
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/transforms-4/2e30d7a43f85227ab6a8c8776b0be7db/transformed/exoplayer-core-2.18.7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../NewLithiumUpdate/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.18.7/c4e83208e6f2849675ad33436f6737fe7bd82a1d/exoplayer-core-2.18.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
